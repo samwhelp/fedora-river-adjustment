@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Fedora River](https://github.com/samwhelp/fedora-river-adjustment/tree/main/prototype/main/river-config/Main) |
+| [Fedora River Config](https://github.com/samwhelp/fedora-river-adjustment/tree/main/prototype/main/river-config/Main) |
 
 
 
